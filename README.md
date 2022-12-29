@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on My Algo-Trading project.📈<br>👯 I'm looking for a Internship as an CSE Student.🧑🏻‍🎓<br>🌱 I'm interested in Data Science and Machine Learning.💻<br>🗨️ Currently contributing to Open Source. <br>
+🔭 Computer Science B.Tech Undergard from SPPU.📈<br>👯 I'm looking for Internships.🧑🏻‍🎓<br>🌱 I'm interested in Data Science and Machine Learning.💻<br>🗨️ Currently contributing to Open Source. <br>
 
 
 ## 🌐 Socials:
