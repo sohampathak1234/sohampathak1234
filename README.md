@@ -14,3 +14,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sohampathak1234&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+
+[![An image of @sohampathak1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohampathak1234)](https://holopin.io/@sohampathak1234)
